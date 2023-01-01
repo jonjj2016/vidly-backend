@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^16.1.7",
-    "config": "^3.2.3",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "helmet": "^3.21.1",
     "morgan": "^1.9.1"
